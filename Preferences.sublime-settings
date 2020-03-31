@@ -1,0 +1,26 @@
+{
+    "default_encoding": "UTF-8",
+    "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+    "draw_white_space": "all",
+    "font_size": 16,
+
+    // Set to true to removing trailing white space on save
+    "trim_trailing_white_space_on_save": true,
+
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving
+    "ensure_newline_at_eof_on_save": true,
+
+    // Set to true to automatically save files when switching to a different file
+    // or application
+    "save_on_focus_lost": true,
+      "ignored_packages":
+    [
+        "Anaconda",
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80
+    ]
+}
