@@ -93,7 +93,10 @@ wget https://gist.githubusercontent.com/SpireFlux/1cd39bc9b8c99f9a2eaadf0413e943
 # python get-pip.py
 
 
-
+################################################################################
+# Configure Sublime Text
+################################################################################
+https://stackoverflow.com/questions/19529999/add-package-control-in-sublime-text-3-through-the-command-line
 
 
 
