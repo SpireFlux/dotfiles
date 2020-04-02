@@ -32,7 +32,8 @@ apt-get install -qq \
     libc6-dev libc6-dev-i386 gcc-multilib g++-multilib \
     apt-transport-https \
     python3-pip \
-    ufw
+    ufw \
+    tree
 
 
 echo -e "\n*******************************************************************"
