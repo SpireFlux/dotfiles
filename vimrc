@@ -4,3 +4,4 @@ set expandtab    "Tabs are spaces
 set number       "show line nnumbers
 set showcmd      "show commands in bottom bar
 set showmatch    "Highlight matching [{()}]
+filetype indent plugin on
