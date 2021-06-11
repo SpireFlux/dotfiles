@@ -1,0 +1,35 @@
+{
+    "editor.fontSize": 12,
+    "python.formatting.provider": "black",
+    "workbench.startupEditor": "newUntitledFile",
+    "python.formatting.blackPath": "/home/tbd",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "editor.mouseWheelZoom": true,
+    "python.linting.mypyEnabled": true,
+    "editor.rulers": [30, 80
+    
+    ],
+    "[git-commit]": {
+
+        "editor.rulers": [
+            72
+        ],
+        "workbench.editor.restoreViewState": false
+    },
+    "cSpell.userWords": [
+        "Pandoc",
+    ],
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 1,
+    "files.associations": {
+        "*.cool": "cool"
+    },
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
+}
